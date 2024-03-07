@@ -1,10 +1,10 @@
 # ELM-GCN
 
 <p align="center">
-<img src="Files/acc_Inductive.png" height=350>
-<img src="Files/acc_Transductive.png" height=350>
-<img src="Files/time_Inductive.png" height=350>
-<img src="Files/time_Transductive.png" height=350>
+<img src="Files/acc_Inductive.png" width=350>
+<img src="Files/acc_Transductive.png" width=350>
+<img src="Files/time_Inductive.png" width=350>
+<img src="Files/time_Transductive.png" width=350>
 </p>
 
 Graph Convolutional Network (GCN) is a powerful model to deal with data arranged as a graph, a structured non-euclidian domain. It is known that GCN reaches high accuracy even when operating with just 2 layers. Another well-known result shows that Extreme Learning Machine (ELM) is an efficient analytic learning technique to train 2 layers Multi-Layer Perceptron (MLP). In this work, we extend ELM theory to operate in the context of GCN, giving rise to ELM-GCN, a novel learning mechanism to train GCN that turns out to be faster than baseline techniques while maintaining prediction capability. We also show a theoretical upper bound in the number of hidden units required to guarantee the GCN performance. To the best of our knowledge, our approach is the first to provide such theoretical guarantees while proposing a non-iterative learning algorithm to train graph convolutional networks.
