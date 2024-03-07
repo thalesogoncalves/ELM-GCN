@@ -11,6 +11,6 @@ Graph Convolutional Network (GCN) is a powerful model to deal with data arranged
 
 Since the dataset's sizes are large, we could not upload it to GitHub. However, as discussed in the published paper, the datasets can be obtained in the refered links. We alos provide them [ready-to-use]([https://ceb.nlm.nih.gov/repositories/malaria-datasets/](https://drive.google.com/drive/u/9/folders/1OiYjogJyrThXgkoleuzRVZ_C5ZtPNTg3)).
 
-[U.S. National Library of Medicine](https://ceb.nlm.nih.gov/repositories/malaria-datasets/)
+[ready-to-use](https://ceb.nlm.nih.gov/repositories/malaria-datasets/)
 
 Our pre-processed Reddit data in latter url was prepared using steps showed in this document and matches processed original Reddit data.
